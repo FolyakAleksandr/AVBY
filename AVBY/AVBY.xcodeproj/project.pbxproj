@@ -10,9 +10,15 @@
 		012BF8B22B31B2A800F3C6CB /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BF8B12B31B2A800F3C6CB /* TabBarController.swift */; };
 		012BF8B62B31B5B900F3C6CB /* UIColor + extens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BF8B52B31B5B900F3C6CB /* UIColor + extens.swift */; };
 		012BF8B82B31B6CF00F3C6CB /* Resources.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BF8B72B31B6CF00F3C6CB /* Resources.swift */; };
+		012BF8BC2B31C43600F3C6CB /* NavBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BF8BB2B31C43600F3C6CB /* NavBarController.swift */; };
+		012BF8C52B31CD0B00F3C6CB /* AutoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BF8C42B31CD0B00F3C6CB /* AutoController.swift */; };
+		012BF8C72B31CD1D00F3C6CB /* FavoritesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BF8C62B31CD1D00F3C6CB /* FavoritesController.swift */; };
+		012BF8C92B31CD2E00F3C6CB /* AdvertisementsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BF8C82B31CD2E00F3C6CB /* AdvertisementsController.swift */; };
+		012BF8CB2B31CD4100F3C6CB /* DialoguesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BF8CA2B31CD4100F3C6CB /* DialoguesController.swift */; };
+		012BF8CD2B31CD5100F3C6CB /* OtherController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BF8CC2B31CD5100F3C6CB /* OtherController.swift */; };
+		012BF8CF2B31CDB300F3C6CB /* BaseController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012BF8CE2B31CDB300F3C6CB /* BaseController.swift */; };
 		0190EC412B28C33E00D67D13 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0190EC402B28C33E00D67D13 /* AppDelegate.swift */; };
 		0190EC432B28C33E00D67D13 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0190EC422B28C33E00D67D13 /* SceneDelegate.swift */; };
-		0190EC452B28C33E00D67D13 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0190EC442B28C33E00D67D13 /* ViewController.swift */; };
 		0190EC4A2B28C33F00D67D13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0190EC492B28C33F00D67D13 /* Assets.xcassets */; };
 		0190EC4D2B28C33F00D67D13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0190EC4B2B28C33F00D67D13 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -21,10 +27,16 @@
 		012BF8B12B31B2A800F3C6CB /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		012BF8B52B31B5B900F3C6CB /* UIColor + extens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor + extens.swift"; sourceTree = "<group>"; };
 		012BF8B72B31B6CF00F3C6CB /* Resources.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Resources.swift; sourceTree = "<group>"; };
+		012BF8BB2B31C43600F3C6CB /* NavBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavBarController.swift; sourceTree = "<group>"; };
+		012BF8C42B31CD0B00F3C6CB /* AutoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoController.swift; sourceTree = "<group>"; };
+		012BF8C62B31CD1D00F3C6CB /* FavoritesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesController.swift; sourceTree = "<group>"; };
+		012BF8C82B31CD2E00F3C6CB /* AdvertisementsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvertisementsController.swift; sourceTree = "<group>"; };
+		012BF8CA2B31CD4100F3C6CB /* DialoguesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialoguesController.swift; sourceTree = "<group>"; };
+		012BF8CC2B31CD5100F3C6CB /* OtherController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherController.swift; sourceTree = "<group>"; };
+		012BF8CE2B31CDB300F3C6CB /* BaseController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseController.swift; sourceTree = "<group>"; };
 		0190EC3D2B28C33E00D67D13 /* AVBY.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AVBY.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0190EC402B28C33E00D67D13 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0190EC422B28C33E00D67D13 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		0190EC442B28C33E00D67D13 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0190EC492B28C33F00D67D13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0190EC4C2B28C33F00D67D13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0190EC4E2B28C33F00D67D13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -77,6 +89,69 @@
 			path = Extensions;
 			sourceTree = "<group>";
 		};
+		012BF8BD2B31C6BB00F3C6CB /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				012BF8BE2B31CC6400F3C6CB /* Base */,
+				012BF8BF2B31CC7700F3C6CB /* Auto */,
+				012BF8C02B31CC9A00F3C6CB /* Favorites */,
+				012BF8C12B31CCA400F3C6CB /* Advertisements */,
+				012BF8C22B31CCAE00F3C6CB /* Dialogues */,
+				012BF8C32B31CCBB00F3C6CB /* Other */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		012BF8BE2B31CC6400F3C6CB /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				012BF8B12B31B2A800F3C6CB /* TabBarController.swift */,
+				012BF8BB2B31C43600F3C6CB /* NavBarController.swift */,
+				012BF8CE2B31CDB300F3C6CB /* BaseController.swift */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		012BF8BF2B31CC7700F3C6CB /* Auto */ = {
+			isa = PBXGroup;
+			children = (
+				012BF8C42B31CD0B00F3C6CB /* AutoController.swift */,
+			);
+			path = Auto;
+			sourceTree = "<group>";
+		};
+		012BF8C02B31CC9A00F3C6CB /* Favorites */ = {
+			isa = PBXGroup;
+			children = (
+				012BF8C62B31CD1D00F3C6CB /* FavoritesController.swift */,
+			);
+			path = Favorites;
+			sourceTree = "<group>";
+		};
+		012BF8C12B31CCA400F3C6CB /* Advertisements */ = {
+			isa = PBXGroup;
+			children = (
+				012BF8C82B31CD2E00F3C6CB /* AdvertisementsController.swift */,
+			);
+			path = Advertisements;
+			sourceTree = "<group>";
+		};
+		012BF8C22B31CCAE00F3C6CB /* Dialogues */ = {
+			isa = PBXGroup;
+			children = (
+				012BF8CA2B31CD4100F3C6CB /* DialoguesController.swift */,
+			);
+			path = Dialogues;
+			sourceTree = "<group>";
+		};
+		012BF8C32B31CCBB00F3C6CB /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				012BF8CC2B31CD5100F3C6CB /* OtherController.swift */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
 		0190EC342B28C33E00D67D13 = {
 			isa = PBXGroup;
 			children = (
@@ -97,8 +172,7 @@
 			isa = PBXGroup;
 			children = (
 				012BF8AF2B31AF9800F3C6CB /* Application */,
-				012BF8B12B31B2A800F3C6CB /* TabBarController.swift */,
-				0190EC442B28C33E00D67D13 /* ViewController.swift */,
+				012BF8BD2B31C6BB00F3C6CB /* Controllers */,
 				012BF8B32B31B55700F3C6CB /* Helpers */,
 				012BF8B02B31AFB500F3C6CB /* SupportingFiles */,
 			);
@@ -175,11 +249,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0190EC452B28C33E00D67D13 /* ViewController.swift in Sources */,
 				012BF8B22B31B2A800F3C6CB /* TabBarController.swift in Sources */,
+				012BF8CD2B31CD5100F3C6CB /* OtherController.swift in Sources */,
+				012BF8C72B31CD1D00F3C6CB /* FavoritesController.swift in Sources */,
+				012BF8C92B31CD2E00F3C6CB /* AdvertisementsController.swift in Sources */,
 				012BF8B62B31B5B900F3C6CB /* UIColor + extens.swift in Sources */,
+				012BF8BC2B31C43600F3C6CB /* NavBarController.swift in Sources */,
+				012BF8C52B31CD0B00F3C6CB /* AutoController.swift in Sources */,
 				012BF8B82B31B6CF00F3C6CB /* Resources.swift in Sources */,
 				0190EC412B28C33E00D67D13 /* AppDelegate.swift in Sources */,
+				012BF8CB2B31CD4100F3C6CB /* DialoguesController.swift in Sources */,
+				012BF8CF2B31CDB300F3C6CB /* BaseController.swift in Sources */,
 				0190EC432B28C33E00D67D13 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
